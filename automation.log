@@ -1,0 +1,41 @@
+2025-11-05 20:06:08,504 - Process-2 - INFO - ====== WebDriver manager ======
+2025-11-05 20:06:12,228 - Process-2 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-05 20:06:12,513 - Process-2 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2025-11-05 20:06:12,813 - Process-2 - INFO - Driver downloading response is 200
+2025-11-05 20:06:14,535 - Process-2 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-05 20:06:16,444 - Process-2 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-05 20:06:18,279 - Process-2 - INFO - Driver has been saved in cache [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\114.0.5735.90]
+2025-11-05 20:06:18,285 - Process-2 - INFO - patching driver executable C:\Users\Administrator\.wdm\drivers\chromedriver\win64\114.0.5735.90\chromedriver.exe
+2025-11-05 20:06:24,046 - Process-3 - INFO - ====== WebDriver manager ======
+2025-11-05 20:06:27,278 - Process-3 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-05 20:06:27,549 - Process-3 - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip
+2025-11-05 20:06:27,832 - Process-3 - INFO - Driver downloading response is 200
+2025-11-05 20:06:29,626 - Process-3 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-05 20:07:29,910 - Process-5 - INFO - ====== WebDriver manager ======
+2025-11-05 20:07:31,316 - Process-5 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-05 20:07:31,551 - Process-5 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-05 20:07:31,770 - Process-5 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\142.0.7444.59\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-05 20:07:33,697 - Process-5 - INFO - Navigating to with option 3
+2025-11-05 20:07:41,490 - Process-6 - INFO - ====== WebDriver manager ======
+2025-11-05 20:07:42,902 - Process-6 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-05 20:07:43,110 - Process-6 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-05 20:07:43,348 - Process-6 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\142.0.7444.59\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-05 20:07:45,238 - Process-6 - INFO - Navigating to with option 3
+2025-11-05 22:52:39,044 - Process-8 - INFO - ====== WebDriver manager ======
+2025-11-05 22:52:40,477 - Process-8 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-05 22:52:40,691 - Process-8 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-05 22:52:40,894 - Process-8 - INFO - There is no [win64] chromedriver "142.0.7444.61" for browser google-chrome "142.0.7444" in cache
+2025-11-05 22:52:40,894 - Process-8 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-05 22:52:41,486 - Process-8 - INFO - WebDriver version 142.0.7444.61 selected
+2025-11-05 22:52:41,495 - Process-8 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.61/win32/chromedriver-win32.zip
+2025-11-05 22:52:41,495 - Process-8 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.61/win32/chromedriver-win32.zip
+2025-11-05 22:52:41,767 - Process-8 - INFO - Driver downloading response is 200
+2025-11-05 22:52:41,903 - Process-8 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-05 22:52:42,914 - Process-8 - INFO - Driver has been saved in cache [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\142.0.7444.61]
+2025-11-05 22:52:44,122 - Process-8 - INFO - patching driver executable C:\Users\Administrator\.wdm\drivers\chromedriver\win64\142.0.7444.61\chromedriver-win32/chromedriver.exe
+2025-11-05 22:52:48,601 - Process-8 - INFO - Navigating to with option 3
+2025-11-05 22:52:56,515 - Process-9 - INFO - ====== WebDriver manager ======
+2025-11-05 22:52:57,909 - Process-9 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-05 22:52:58,133 - Process-9 - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-05 22:52:58,349 - Process-9 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\142.0.7444.61\chromedriver-win32/chromedriver.exe] found in cache
+2025-11-05 22:53:00,228 - Process-9 - INFO - Navigating to with option 3
