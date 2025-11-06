@@ -3,6 +3,8 @@ import os
 import subprocess
 import pygetwindow as gw
 import win32com.client
+import win32gui;
+import win32con;
 
 SCRIPT_NAME = "ConBoMoi.py"
 WINDOW_KEYWORD = "Con Bọ Mới"  # Một phần tiêu đề cửa sổ app
