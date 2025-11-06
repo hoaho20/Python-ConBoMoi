@@ -1,5 +1,4 @@
 import psutil
-import os
 import subprocess
 import pygetwindow as gw
 import win32com.client
@@ -7,7 +6,7 @@ import win32gui;
 import win32con;
 
 SCRIPT_NAME = "ConBoMoi.py"
-WINDOW_KEYWORD = "Con Bọ Mới"  # Một phần tiêu đề cửa sổ app
+WINDOW_KEYWORD = "Con Bọ Mới"  # Tiêu đề cửa sổ app
 
 def is_running(script_name):
     for p in psutil.process_iter(['pid', 'name', 'cmdline']):
